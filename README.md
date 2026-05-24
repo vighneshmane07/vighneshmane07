@@ -1,19 +1,8 @@
 <div align="center">
 
-```
-██╗   ██╗██╗ ██████╗ ██╗  ██╗███╗   ██╗███████╗███████╗██╗  ██╗
-██║   ██║██║██╔════╝ ██║  ██║████╗  ██║██╔════╝██╔════╝██║  ██║
-██║   ██║██║██║  ███╗███████║██╔██╗ ██║█████╗  ███████╗███████║
-╚██╗ ██╔╝██║██║   ██║██╔══██║██║╚██╗██║██╔══╝  ╚════██║██╔══██║
- ╚████╔╝ ██║╚██████╔╝██║  ██║██║ ╚████║███████╗███████║██║  ██║
-  ╚═══╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&height=80&lines=VIGHNESH+MANE" alt="Vighnesh Mane" />
 
-### Full-Stack Developer · AI Explorer · History Through Code
-
-[![GitHub followers](https://img.shields.io/github/followers/vighneshmane07?style=flat-square&color=6e40c9&labelColor=0d1117&label=Followers)](https://github.com/vighneshmane07?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/vighneshmane07?style=flat-square&color=6e40c9&labelColor=0d1117&label=Total%20Stars)](https://github.com/vighneshmane07)
-![Profile Views](https://komarev.com/ghpvc/?username=vighneshmane07&style=flat-square&color=6e40c9&label=Profile+Views)
+### Full-Stack Developer · AI Explorer · AI Engineer
 
 </div>
 
@@ -94,6 +83,7 @@ developer = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-vighneshmane07-181717?style=for-the-badge&logo=github)](https://github.com/vighneshmane07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vighnesh%20Mane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vighneshmaneai/)
 
 *"The past is not dead. It's not even past — let's visualize it."*
 
