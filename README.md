@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&height=80&lines=VIGHNESH+MANE" alt="Vighnesh Mane" />
+<img src="./photo.png" alt="Profile Banner" width="100%"/>
 
 ### Full-Stack Developer · AI Explorer · AI Engineer
 
