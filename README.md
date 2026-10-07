@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./photo.png" alt="Profile Banner" width="100%"/>
+<img src="./photo.jpg" width="250"/>
 
 ### Full-Stack Developer · AI Explorer · AI Engineer
 
