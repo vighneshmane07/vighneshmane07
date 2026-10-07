@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./photo.jpg" width="250"/>
+<img src="photo.jpeg" width="220" alt="Vighnesh Mane"/>
 
 ### Full-Stack Developer · AI Explorer · AI Engineer
 
